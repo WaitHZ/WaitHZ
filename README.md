@@ -10,7 +10,9 @@ I am currently studying undergraduate degree in **computer science** at **Zhejia
 
 I usually get more exposure to **C and C++** in class, but now I have joined Teacher Yang Yi's artificial intelligence laboratory, so I will also learn a lot of knowledge related to **Python, machine learning and computer vision**.
 
-![helloworld](./fig/HelloWorld.png)
+<div  align="center">
+<img src="./fig/HelloWorld.png" width = "400" height = "300" alt="zju" align=center />
+</div>
 
 In addition to software, I also need to learn some hardware courses, so I will write some **verilog** codes; and since I have minored in some other subjects, there may also be some **Matlab** and **robot-related content**.
 
