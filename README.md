@@ -4,7 +4,8 @@ Hi, My name is **Wait Horizon's Zephyr**.
 
 I am currently studying undergraduate degree in **computer science** at **Zhejiang University**.
 
-![zju](./fig/zju.png)
+
+<img src="./fig/zju.png" width = "150" height = "150" alt="zju" align=center />
 
 I usually get more exposure to **C and C++** in class, but now I have joined Teacher Yang Yi's artificial intelligence laboratory, so I will also learn a lot of knowledge related to **Python, machine learning and computer vision**.
 
